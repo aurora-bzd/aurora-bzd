@@ -1,4 +1,4 @@
-### Hello there 💜
+### Hello there 💜💜
 #
 ![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurora-bzd&show_icons=true&theme=tokyonight)
 
